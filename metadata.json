@@ -1,0 +1,5 @@
+{
+  "name": "Supermarket Sales & Billing Dashboard",
+  "description": "A modern and responsive web application for managing sales, billing, and inventory for a supermarket. It includes modules for credit management, cash sales, inventory control, and a comprehensive dashboard with dynamic charts.",
+  "requestFramePermissions": []
+}
